@@ -1,0 +1,382 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{GujjarSmartWheelchair}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=46b6346926da15379da231edaf33b7b1}{%
+           family={Gujjar},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=29ad7f40e11ba38c3b5e10eae4da7239}{%
+           family={Navadiya},
+           familyi={N\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d598611142b4f2fee5b2065eb4a2d90d}{%
+           family={Surve},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=145502e94bad80949d2ef6b5fb061b3c}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=75bc07750cf7761abce7d7590262d106}{%
+           family={Dsilva},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{093bbbd8e99a18a229a4bedfe08e5b5a}
+      \strng{fullhash}{7fc301d83af3574e86f1e45d56c0b5e8}
+      \strng{bibnamehash}{7fc301d83af3574e86f1e45d56c0b5e8}
+      \strng{authorbibnamehash}{7fc301d83af3574e86f1e45d56c0b5e8}
+      \strng{authornamehash}{093bbbd8e99a18a229a4bedfe08e5b5a}
+      \strng{authorfullhash}{7fc301d83af3574e86f1e45d56c0b5e8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the International Conference on Applied Artificial Intelligence and Computing (ICAAIC 2022)}
+      \field{title}{Smart Wheelchair with Remote Patient Health Monitoring System}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1109/ICAAIC53929.2022.9792939
+      \endverb
+    \endentry
+    \entry{Salafi2009TouchScreen}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4984b151f901a8bef9d5425ac2ac31de}{%
+           family={Salafì},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f4d746dbdbd2b47a5917076fab77189a}{%
+           family={Gasparini},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ad6622ea75539846b6edef715e379c05}{%
+           family={Grassi},
+           familyi={G\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{db128825862369ca7831418e79dc812f}
+      \strng{fullhash}{db128825862369ca7831418e79dc812f}
+      \strng{bibnamehash}{db128825862369ca7831418e79dc812f}
+      \strng{authorbibnamehash}{db128825862369ca7831418e79dc812f}
+      \strng{authornamehash}{db128825862369ca7831418e79dc812f}
+      \strng{authorfullhash}{db128825862369ca7831418e79dc812f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Clinical and Experimental Rheumatology}
+      \field{title}{The use of computer touch-screen technology for the collection of patient-reported outcome data in rheumatoid arthritis: comparison with standardized paper questionnaires}
+      \field{volume}{27}
+      \field{year}{2009}
+      \field{pages}{459\bibrangedash 468}
+      \range{pages}{10}
+    \endentry
+    \entry{Kumar2017SolarWheelChair}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9a010bc39d460f5cacae705f93041e93}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=884b1baf9c82c637cdc3cb7121c6596d}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2698525e977dec3fea3e4860ce51f47d}{%
+           family={Kalyan},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8424e33d33de87c8feefd5cc632aac41}
+      \strng{fullhash}{8424e33d33de87c8feefd5cc632aac41}
+      \strng{bibnamehash}{8424e33d33de87c8feefd5cc632aac41}
+      \strng{authorbibnamehash}{8424e33d33de87c8feefd5cc632aac41}
+      \strng{authornamehash}{8424e33d33de87c8feefd5cc632aac41}
+      \strng{authorfullhash}{8424e33d33de87c8feefd5cc632aac41}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2321-9653}
+      \field{journaltitle}{International Journal for Research in Applied Science \& Engineering Technology (IJRASET)}
+      \field{number}{II}
+      \field{title}{Touchpad Control of Solar Powered Wheel Chair}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{1245\bibrangedash 1248}
+      \range{pages}{4}
+    \endentry
+    \entry{PosugadeWheelchair}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a62206d40ca18ceb0fb48ff6899de008}{%
+           family={Posugade},
+           familyi={P\bibinitperiod},
+           given={Vasundhara\bibnamedelima G.},
+           giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=e793201396bff469e66b5683bf02e150}{%
+           family={Shedge},
+           familyi={S\bibinitperiod},
+           given={Komal\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c0bda7d061d43bb4deb6e69b5dc428e4}{%
+           family={Tikhe},
+           familyi={T\bibinitperiod},
+           given={Chaitali\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{295fe20a5488891322c0b77d45a9226e}
+      \strng{fullhash}{295fe20a5488891322c0b77d45a9226e}
+      \strng{bibnamehash}{295fe20a5488891322c0b77d45a9226e}
+      \strng{authorbibnamehash}{295fe20a5488891322c0b77d45a9226e}
+      \strng{authornamehash}{295fe20a5488891322c0b77d45a9226e}
+      \strng{authorfullhash}{295fe20a5488891322c0b77d45a9226e}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Engineering Research and Applications}
+      \field{title}{Touch-Screen Based Wheelchair System}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb URL Artikel Jika Tersedia
+      \endverb
+      \verb{url}
+      \verb URL%20Artikel%20Jika%20Tersedia
+      \endverb
+    \endentry
+    \entry{Fahrozi2020AutoWheelChair}{article}{}
+      \name{author}{1}{}{%
+        {{hash=11c15b13d9efc9e8286643023a6a8c7a}{%
+           family={Fahrozi},
+           familyi={F\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \strng{fullhash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \strng{bibnamehash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \strng{authorbibnamehash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \strng{authornamehash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \strng{authorfullhash}{11c15b13d9efc9e8286643023a6a8c7a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1570009926}
+      \field{journaltitle}{Jurnal Perancangan, Manufaktur, Material, dan Energi (JURNAL PERMADI)}
+      \field{number}{1}
+      \field{title}{Kursi Roda Otomatis dengan Pengatur Posisi Duduk Otomatis}
+      \field{volume}{2}
+      \field{year}{2020}
+      \field{pages}{45\bibrangedash 52}
+      \range{pages}{8}
+    \endentry
+    \entry{alatkesehatanonline2023}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Alat Kesehatan (Alkes) Online}
+      \field{title}{GESUNDE}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.alatkesehatan.id/toko/kursi-roda-elektrik-otomatis/
+      \endverb
+      \verb{url}
+      \verb https://www.alatkesehatan.id/toko/kursi-roda-elektrik-otomatis/
+      \endverb
+    \endentry
+    \entry{Asnan2019SNI}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1317b23b5236087d710688e5871fb935}{%
+           family={Asnan},
+           familyi={A\bibinitperiod},
+           given={S.\bibnamedelimi L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1317b23b5236087d710688e5871fb935}
+      \strng{fullhash}{1317b23b5236087d710688e5871fb935}
+      \strng{bibnamehash}{1317b23b5236087d710688e5871fb935}
+      \strng{authorbibnamehash}{1317b23b5236087d710688e5871fb935}
+      \strng{authornamehash}{1317b23b5236087d710688e5871fb935}
+      \strng{authorfullhash}{1317b23b5236087d710688e5871fb935}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perancangan draf Standar Nasional Indonesia (SNI) kursi roda elektrik}
+      \field{year}{2019}
+    \endentry
+    \entry{sains_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cf9005741198f729519281f9142b5a4e}{%
+           family={SAINS},
+           familyi={S\bibinitperiod},
+           given={UNIVERSITAS},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf9005741198f729519281f9142b5a4e}
+      \strng{fullhash}{cf9005741198f729519281f9142b5a4e}
+      \strng{bibnamehash}{cf9005741198f729519281f9142b5a4e}
+      \strng{authorbibnamehash}{cf9005741198f729519281f9142b5a4e}
+      \strng{authornamehash}{cf9005741198f729519281f9142b5a4e}
+      \strng{authorfullhash}{cf9005741198f729519281f9142b5a4e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stekom.ac.id}
+      \field{title}{Bantalan sentuh}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://p2k.stekom.ac.id/ensiklopedia/Bantalan_sentuh
+      \endverb
+      \verb{url}
+      \verb https://p2k.stekom.ac.id/ensiklopedia/Bantalan_sentuh
+      \endverb
+    \endentry
+    \entry{WinPoinPrecisionTouchpad}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a792af380a274a53a6ba494b7599b544}{%
+           family={Legenda},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a792af380a274a53a6ba494b7599b544}
+      \strng{fullhash}{a792af380a274a53a6ba494b7599b544}
+      \strng{bibnamehash}{a792af380a274a53a6ba494b7599b544}
+      \strng{authorbibnamehash}{a792af380a274a53a6ba494b7599b544}
+      \strng{authornamehash}{a792af380a274a53a6ba494b7599b544}
+      \strng{authorfullhash}{a792af380a274a53a6ba494b7599b544}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Precision Touchpad akan Jadi Syarat Minimal di Windows 10}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://winpoin.com/precision-touchpad-akan-jadi-syarat-minimal-di-windows-10/
+      \endverb
+      \verb{url}
+      \verb https://winpoin.com/precision-touchpad-akan-jadi-syarat-minimal-di-windows-10/
+      \endverb
+    \endentry
+    \entry{MicrosoftTouchGestures}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Touch gestures for Windows}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://support.microsoft.com/en-us/windows/touch-gestures-for-windows-a9d28305-4818-a5df-4e2b-e5590f850741
+      \endverb
+      \verb{url}
+      \verb https://support.microsoft.com/en-us/windows/touch-gestures-for-windows-a9d28305-4818-a5df-4e2b-e5590f850741
+      \endverb
+    \endentry
+    \entry{Besari24JamIoT}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0e9246e2a36b970e74f9ad8869307641}{%
+           family={Besari},
+           familyi={B\bibinitperiod},
+           given={A.R.\bibnamedelimi Anom},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e9246e2a36b970e74f9ad8869307641}
+      \strng{fullhash}{0e9246e2a36b970e74f9ad8869307641}
+      \strng{bibnamehash}{0e9246e2a36b970e74f9ad8869307641}
+      \strng{authorbibnamehash}{0e9246e2a36b970e74f9ad8869307641}
+      \strng{authornamehash}{0e9246e2a36b970e74f9ad8869307641}
+      \strng{authorfullhash}{0e9246e2a36b970e74f9ad8869307641}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{24 Jam Belajar Internet of Things (IoT) dengan Raspberry Pi}
+      \field{year}{2021}
+    \endentry
+    \entry{raspberrypiltd_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=14c106eb83c2455446f5b878fe415027}{%
+           family={Ltd},
+           familyi={L\bibinitperiod},
+           given={Raspberry\bibnamedelima Pi},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{14c106eb83c2455446f5b878fe415027}
+      \strng{fullhash}{14c106eb83c2455446f5b878fe415027}
+      \strng{bibnamehash}{14c106eb83c2455446f5b878fe415027}
+      \strng{authorbibnamehash}{14c106eb83c2455446f5b878fe415027}
+      \strng{authornamehash}{14c106eb83c2455446f5b878fe415027}
+      \strng{authorfullhash}{14c106eb83c2455446f5b878fe415027}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Raspberry Pi}
+      \field{title}{Buy a Raspberry Pi 4 Model B – Raspberry Pi}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+      \endverb
+      \verb{url}
+      \verb https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
